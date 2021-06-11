@@ -1,0 +1,26 @@
+{
+  "name": "misc-grapher",
+  "version": "1.0.0",
+  "description": "A side project of mine that will allow for multiple different types of graphs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HallowedDust5/Misc-Grapher.git"
+  },
+  "keywords": [
+    "graphing"
+  ],
+  "author": "HallowedDust5",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HallowedDust5/Misc-Grapher/issues"
+  },
+  "homepage": "https://github.com/HallowedDust5/Misc-Grapher#readme",
+  "dependencies": {
+    "jscharting": "*",
+    "mathjs": "^9.4.2"
+  }
+}
